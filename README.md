@@ -1,4 +1,5 @@
-#導入はこちらから
-https://discord.com/oauth2/authorize?client_id=1173980854507274323&permissions=8&scope=bot
+# 導入は[こちら](https://discord.com/oauth2/authorize?client_id=1173980854507274323&permissions=8&scope=bot)から
 
-#WIKI
+
+# [WIKI](https://github.com/radian462/Radiate-wiki/wiki)
+
